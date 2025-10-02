@@ -18,9 +18,15 @@
 ---
 ### :man_technologist: About Me:
 
-- :telescope: I am a Web Developer and contributing to backend and frontend for building web applications.
-- :eyes: When choosing a new project, I usually take on tasks that I have not had to implement before.
-- :seedling: I am interested in freelance opportunities – especially ambitious or large projects.
+:wave: Hi, I’m Andrei, a Web Developer.  
+:computer: I work with both backend and frontend, building modern and scalable web applications.  
+:gear: Backend: Python (Django, FastAPI, Flask), PostgreSQL, Redis  
+:art: Frontend: Vue.js, Nuxt, TypeScript, Vuetify  
+:package: Tools: Linux, Nginx, Docker, Git
+
+:mag: I enjoy solving complex problems and applying best practices such as Unit of Work, Repository pattern, and clean architecture.  
+:rocket: I usually take on projects with tasks I haven’t implemented before – this helps me grow as a developer.  
+:seedling: Open to freelance opportunities – especially ambitious or large projects.
 
 ---
 ### :hammer_and_wrench: Languages and Tools:
